@@ -1,4 +1,4 @@
-package com.huawei.hms.ads6;
+package com.sample.huawei.ads;
 
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
@@ -14,7 +14,6 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.huawei.hms.ads.AdParam;
 import com.huawei.hms.ads.AudioFocusType;
-
 import com.huawei.hms.ads.R;
 import com.huawei.hms.ads.splash.SplashAdDisplayListener;
 import com.huawei.hms.ads.splash.SplashView;

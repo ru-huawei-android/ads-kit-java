@@ -1,4 +1,4 @@
-package com.huawei.hms.ads6;
+package com.sample.huawei.ads;
 
 public class Constants {
     public static final String SP_NAME = "HuaweiAdsSdkSharedPreferences";

@@ -1,4 +1,4 @@
-package com.huawei.hms.ads6;
+package com.sample.huawei.ads;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -21,8 +21,8 @@ import com.huawei.hms.ads.consent.inter.ConsentUpdateListener;
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.huawei.hms.ads6.Constants.SP_CONSENT_KEY;
-import static com.huawei.hms.ads6.Constants.SP_NAME;
+import static com.sample.huawei.ads.Constants.SP_CONSENT_KEY;
+import static com.sample.huawei.ads.Constants.SP_NAME;
 
 public class MainActivity extends AppCompatActivity {
 

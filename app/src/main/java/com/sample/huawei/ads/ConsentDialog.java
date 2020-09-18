@@ -1,4 +1,4 @@
-package com.huawei.hms.ads6;
+package com.sample.huawei.ads;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -28,8 +28,8 @@ import com.huawei.hms.ads.consent.inter.Consent;
 
 import java.util.ArrayList;
 
-import static com.huawei.hms.ads6.Constants.SP_CONSENT_KEY;
-import static com.huawei.hms.ads6.Constants.SP_NAME;
+import static com.sample.huawei.ads.Constants.SP_CONSENT_KEY;
+import static com.sample.huawei.ads.Constants.SP_NAME;
 
 public class ConsentDialog extends Dialog {
 
