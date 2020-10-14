@@ -65,7 +65,7 @@ public class InterstitialActivity extends AppCompatActivity {
 
     private String getAdId(int id) {
         return id == R.id.display_image
-                ? getString(R.string.ad_interestial_img)
-                : getString(R.string.ad_interestial_vid);
+                ? getString(R.string.ad_interstitial_img)
+                : getString(R.string.ad_interstitial_vid);
     }
 }
